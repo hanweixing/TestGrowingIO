@@ -1,0 +1,3 @@
+
+1. In AppDelegate.swift there is a URL Types of growingio schemes, you can get from one of your productions in https://www.growingio.com.
+2. When you run this project, launched, then your another app within relative `growingio schemes` should be opened, indicating that your Growing io access succeed.
